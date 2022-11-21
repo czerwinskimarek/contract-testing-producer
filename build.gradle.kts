@@ -5,9 +5,9 @@ plugins {
 	id("io.spring.dependency-management") version "1.0.15.RELEASE"
 	id("org.springframework.cloud.contract") version "3.1.5"
 	id("io.gitlab.arturbosch.detekt") version "1.22.0"
-	kotlin("jvm") version "1.7.20"
-	kotlin("plugin.spring") version "1.7.20"
-	kotlin("plugin.jpa") version "1.7.20"
+	kotlin("jvm") version "1.7.21"
+	kotlin("plugin.spring") version "1.7.21"
+	kotlin("plugin.jpa") version "1.7.21"
 	`maven-publish`
 }
 
