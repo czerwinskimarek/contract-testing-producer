@@ -16,9 +16,9 @@ Execute:
 
 How the code is organized
 -------------------
-- Sample controller: [CustomerController.kt](src/main/kotlin/com/example/customer/producer/CustomerController.kt)
-- Contract: [shouldReturnAllCustomers.groovy](src/test/resources/contracts/shouldReturnAllCustomers.groovy)
-- Base class for contract testing on the producer side: [BaseClass.kt](src/test/kotlin/com/example/customer/producer/BaseClass.kt)
+- [CustomerController.kt](src/main/kotlin/com/example/customer/producer/CustomerController.kt) - sample controller
+- [shouldReturnAllCustomers.groovy](src/test/resources/contracts/shouldReturnAllCustomers.groovy) - contract
+- [BaseClass.kt](src/test/kotlin/com/example/customer/producer/BaseClass.kt) - base class for contract testing on the producer side
 
 How to run contract tests
 -------------------
