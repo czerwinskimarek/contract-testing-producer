@@ -22,9 +22,7 @@ How the code is organized
 
 How to run contract tests
 -------------------
-Firstly, [build the app on the consumer side](https://github.com/czerwinskimarek/contract-testing-producer#how-to-run-contract-tests) to publish the stubs to Maven Local.
-
-Secondly, execute:
+Execute:
 ```bash
 ./gradlew clean build publishToMavenLocal
 ```
