@@ -32,7 +32,7 @@ dependencies {
 	runtimeOnly("com.h2database:h2")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testImplementation("org.springframework.cloud:spring-cloud-starter-contract-verifier")
-	testImplementation("org.mockito.kotlin:mockito-kotlin:4.0.0")
+	testImplementation("org.mockito.kotlin:mockito-kotlin:4.1.0")
 	detektPlugins("io.gitlab.arturbosch.detekt:detekt-formatting:1.22.0")
 }
 
