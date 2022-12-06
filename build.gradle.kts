@@ -21,7 +21,7 @@ repositories {
 	maven { url = uri("https://repo.spring.io/snapshot") }
 }
 
-extra["springCloudVersion"] = "2021.0.4"
+extra["springCloudVersion"] = "2021.0.5"
 
 dependencies {
 	implementation("org.springframework.boot:spring-boot-starter-data-jpa")
