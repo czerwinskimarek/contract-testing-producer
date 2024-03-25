@@ -4,7 +4,7 @@ plugins {
 	id("org.springframework.boot") version "2.7.6"
 	id("io.spring.dependency-management") version "1.1.0"
 	id("org.springframework.cloud.contract") version "3.1.5"
-	id("io.gitlab.arturbosch.detekt") version "1.22.0"
+	id("io.gitlab.arturbosch.detekt") version "1.23.6"
 	kotlin("jvm") version "1.7.22"
 	kotlin("plugin.spring") version "1.7.22"
 	kotlin("plugin.jpa") version "1.7.22"
